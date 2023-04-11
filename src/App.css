@@ -1,12 +1,13 @@
 .App {
   margin: 30px auto;
-  text-align: center;
 }
 
 .App-header {
   margin-bottom: 30px;
+  text-align: center;
 }
 
 .Footer {
   margin-top: 30px;
+  text-align: center;
 }
