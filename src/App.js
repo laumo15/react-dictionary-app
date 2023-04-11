@@ -5,11 +5,11 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header">Hello</header>
+        <header className="App-header">What word would you like to look up?</header>
         <main>
           <Dictionary />
         </main>
-        <footer className='text-center'>Coded by Laura</footer>
+        <footer className='Footer'>Coded by Laura</footer>
       </div>
     </div>
   )
