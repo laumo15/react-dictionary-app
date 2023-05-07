@@ -1,3 +1,12 @@
+a {
+  text-decoration: underline;
+  color: black;
+}
+
+a:hover {
+    color: #ECD616;
+}
+
 .App {
   margin: 30px auto;
 }
