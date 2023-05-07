@@ -5,7 +5,6 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header">What word would you like to look up?</header>
         <main>
           <Dictionary defaultKeyword={"move"} />
         </main>
